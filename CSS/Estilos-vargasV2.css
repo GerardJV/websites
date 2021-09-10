@@ -243,9 +243,9 @@ section, .contenedor1 {
     } 
     
  
-.contenedor1 .cabaña {
-     width: 500px;
-     height: 250px;
+.contenedor1 img {
+     justify-content: center;
+    width: 100%;
      
      
     }

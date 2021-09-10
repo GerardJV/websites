@@ -196,7 +196,7 @@ footer h4 {
     .menu {
         
         flex-direction: column;
-        
+        font-size: 10px;
         width: auto;
         margin: auto;
         text-align: center;

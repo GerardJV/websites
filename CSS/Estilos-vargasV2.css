@@ -236,6 +236,15 @@ section, .contenedor1 {
     
     } 
     
+ 
+.contenedor1 img {
+     width: 50%;
+     margin: auto;
+     
+    }
+ 
+
+    
 .contenedor1 {
         text-align: center;
         margin; auto;
@@ -251,10 +260,7 @@ section, .contenedor1 {
     width: auto;
 }
     
-.contenedor2 img {
-    width: 50%;
-    margin: 0;
-}
+
 
 .Galería1 , .Galería2 {
         

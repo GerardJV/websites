@@ -192,6 +192,8 @@ footer h4 {
 @media screen and (max-width: 559px) {
 
     .menu {
+        display: flex;
+        justify-content: stretch;
         flex-direction: column;
         margin-bottom: -25px;
         width: auto;

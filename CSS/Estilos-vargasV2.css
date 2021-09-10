@@ -232,6 +232,7 @@ footer h4 {
 section, .contenedor1 {
         
     flex-direction: column;
+    justify-content: center;
     margin:auto;
     margin-top: 25px;
     margin-bottom: 50px;
@@ -254,7 +255,7 @@ section, .contenedor1 {
         text-align: center;
         margin; auto;
         width: auto;
-      
+        
 
     }
 

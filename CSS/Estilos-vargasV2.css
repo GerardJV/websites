@@ -51,7 +51,7 @@ ul li a:hover {
 
 .banner img {
     width: 100%;
-    margin-top: -180px;
+    margin-top: -190px;
 }
 
 .banner h1 {
@@ -236,7 +236,7 @@ footer h4 {
 .banner h1 {
     transform: translateY(-10%);
     font-size: 25px;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
 

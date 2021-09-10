@@ -199,6 +199,7 @@ footer h4 {
         
         width: auto;
         margin: auto;
+        text-align: center;
         
     }
     
@@ -209,6 +210,7 @@ footer h4 {
     .menu-items {
         width: auto;
         margin: auto;   
+        text-align: center;
     }
     
     
@@ -221,7 +223,7 @@ footer h4 {
 .banner h1 {
     transform: translateY(-10%);
     font-size: 25px;
-    margin-left: 50px;
+    margin-left: 150px;
 }
 
 

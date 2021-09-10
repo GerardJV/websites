@@ -51,7 +51,7 @@ ul li a:hover {
 
 .banner img {
     width: 100%;
-    margin-top: -190px;
+    margin-top: -200px;
 }
 
 .banner h1 {
@@ -145,7 +145,7 @@ footer h4 {
     }
 
     .banner {
-        margin-top: 20px;
+        margin-top: 80px;
         width:600px
     }
     

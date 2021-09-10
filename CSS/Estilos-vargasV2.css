@@ -234,6 +234,8 @@ section, .contenedor1 {
     width: auto;
     text-align: center;
     
+    } 
+    
 .contenedor1 {
         text-align: center;
         margin; auto;
@@ -242,7 +244,7 @@ section, .contenedor1 {
 
     }
 
-}
+
 
 .contenedor2 {
     margin-top: -35px;

@@ -167,19 +167,20 @@ footer h4 {
     
     .Galería1 , .Galería2 {
         
-        flex-direction: column;
-        justify-content: center;
-        margin-bottom: 5px;
-        
-        }
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: -30px;
+    
+    }
 
     .Galería1 img {
-        width: 100%;
-    }
+    width: 100%;
+}
+    
     .Galería2 img {
-        width: 100%
-    }
-
+    width: 100%
+}
+    
     .contenedor2 {
         width: auto;
         margin-top: -5px;

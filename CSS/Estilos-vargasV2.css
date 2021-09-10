@@ -194,8 +194,9 @@ footer h4 {
     .menu {
         
         flex-direction: column;
-        margin-bottom: -25px;
+        
         width: auto;
+        margin: auto;
         
     }
     
@@ -212,6 +213,7 @@ footer h4 {
 
 .banner {
     margin-top: 25px;
+    width: 50%;
 }
 
 .banner h1 {

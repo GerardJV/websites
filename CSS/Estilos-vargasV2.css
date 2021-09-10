@@ -194,6 +194,7 @@ footer h4 {
     .menu {
         flex-direction: column;
         margin-bottom: -25px;
+        width: auto;
         
     }
     
@@ -224,7 +225,7 @@ section, .contenedor1 {
     
 .contenedor1 {
         
-        
+        margin; auto;
         width: auto;
       
 

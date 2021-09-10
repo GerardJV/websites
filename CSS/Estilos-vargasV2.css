@@ -243,8 +243,9 @@ section, .contenedor1 {
     } 
     
  
-.cabaña {
-     width: 100%;
+.contenedor1 .cabaña {
+     width: 500px;
+     height: 250px;
      
      
     }

@@ -208,9 +208,10 @@ footer h4 {
     }
     
     .menu-items {
-        width: auto;
+        
         margin: auto;   
-        text-align: center;
+        padding-bottom: 8px;
+        
     }
     
     

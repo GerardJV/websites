@@ -131,6 +131,7 @@ footer h4 {
     
     .menu #logo {
         margin: auto;
+        
     }
     
     
@@ -142,6 +143,7 @@ footer h4 {
 
     .banner {
         margin-top: 40px;
+        width:600px
     }
     
     
@@ -213,7 +215,7 @@ footer h4 {
 
 .banner {
     margin-top: 25px;
-    width: 50%;
+    width: 100%;
 }
 
 .banner h1 {

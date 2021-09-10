@@ -156,14 +156,6 @@ footer h4 {
     }
 
     
-    .contenedor1 {
-        
-        
-        margin:auto;
-      
-
-    }
-
     .contenedor1 img {
        width: auto;
         
@@ -227,6 +219,14 @@ section, .contenedor1 {
     margin:auto;
     margin-top: 25px;
     margin-bottom: 50px;
+    
+     .contenedor1 {
+        
+        
+        margin:auto;
+      
+
+    }
 
 }
 

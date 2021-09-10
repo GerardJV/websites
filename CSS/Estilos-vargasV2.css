@@ -248,6 +248,11 @@ section, .contenedor1 {
     margin-top: -35px;
     width: auto;
 }
+    
+.contenedor2 img {
+    width: 50%;
+    margin: 0;
+}
 
 .Galería1 , .Galería2 {
         

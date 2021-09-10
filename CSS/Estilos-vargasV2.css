@@ -234,9 +234,10 @@ section, .contenedor1 {
     margin-top: 25px;
     margin-bottom: 50px;
     width: auto;
+    text-align: center;
     
 .contenedor1 {
-        
+        text-align: center;
         margin; auto;
         width: auto;
       

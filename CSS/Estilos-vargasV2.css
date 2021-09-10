@@ -197,9 +197,9 @@ footer h4 {
         
         flex-direction: column;
         font-size: 10px;
-        width: auto;
+        margin-left: 2px;
         margin: auto;
-        text-align: center;
+        
         
     }
     

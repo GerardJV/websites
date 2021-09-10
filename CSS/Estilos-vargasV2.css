@@ -204,6 +204,7 @@ footer h4 {
     }
     
     .menu-items {
+        width: auto;
         margin: auto;   
     }
     

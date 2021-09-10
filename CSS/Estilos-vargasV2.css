@@ -194,12 +194,18 @@ footer h4 {
 @media screen and (max-width: 559px) {
 
     .menu {
-        display: flex;
-        justify-content: space-around;
+        
         flex-direction: column;
         font-size: 10px;
         margin: 1px 1px;
         padding: 1px 1px;
+        
+    }
+        
+    .menu-items {
+        
+        display: flex;
+        justify-content: space-around;
         
         
     }

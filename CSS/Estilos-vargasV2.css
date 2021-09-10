@@ -253,9 +253,10 @@ section, .contenedor1 {
     } 
     
  
-.contenedor1 img {
-     justify-content: center;
-    width: 100%;
+.cabaña {
+     
+    flex-direction: column;
+    justify-content: center;
      
      
     }

@@ -174,7 +174,7 @@ footer h4 {
     .Galería1 , .Galería2 {
         
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     
     
     }

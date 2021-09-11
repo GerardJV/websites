@@ -76,7 +76,7 @@ section {
 .contenedor1 {
     margin-top: 75px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 
@@ -168,7 +168,7 @@ footer h4 {
     .contenedor1 img {
      flex-direction: column;
     justify-content: center;
-    width: 100%;
+    width: 50%;
     }
     
     .Galería1 , .Galería2 {
@@ -255,7 +255,7 @@ section , .contenedor1 {
  .contenedor1 img {
      flex-direction: column;
     justify-content: center;
-    width: 100%;
+    width: 50%;
 }
  
 

@@ -165,7 +165,7 @@ footer h4 {
     }
 
     
-    .cabaña img {
+    .contenedor1 img {
      flex-direction: column;
     justify-content: center;
     width: 100%;
@@ -229,7 +229,7 @@ footer h4 {
     
 
 .banner {
-    height: 600px;
+    height: 80%;
     width: 100%;
 }
 
@@ -252,7 +252,7 @@ section , .contenedor1 {
     
     } 
     
- .cabaña img {
+ .contenedor1 img {
      flex-direction: column;
     justify-content: center;
     width: 100%;

@@ -79,9 +79,6 @@ section {
     justify-content: space-evenly;
 }
 
-.cabaña {
-    display: flex;
-}
 
 
 .contenedor2 {
@@ -168,10 +165,10 @@ footer h4 {
     }
 
     
-    .contenedor1 img {
-       width: auto;
-        
-        
+    .cabaña img {
+     flex-direction: column;
+    justify-content: center;
+    width: 100%;
     }
     
     .Galería1 , .Galería2 {
@@ -255,13 +252,11 @@ section , .contenedor1 {
     
     } 
     
- 
-.cabaña {
-     
+ .cabaña img {
+     flex-direction: column;
+    justify-content: center;
     width: 100%;
-     
-     
-    }
+}
  
 
     

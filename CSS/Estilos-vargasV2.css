@@ -170,7 +170,7 @@ footer h4 {
     .contenedor1 img {
      flex-direction: column;
     justify-content: center;
-    
+    width: 100%;
     }
     
     .Galería1 , .Galería2 {

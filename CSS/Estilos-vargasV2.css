@@ -79,7 +79,9 @@ section {
     justify-content: space-around;
 }
 
-
+.contenedor1 img {
+    width: 800px;
+}
 
 .contenedor2 {
     width: 900px;

@@ -216,7 +216,7 @@ footer h4 {
         
         flex-direction: column;
         font-size: 10px;
-        padding: 0;
+        padding: 5px 5px;
         
     }
         
@@ -232,7 +232,7 @@ footer h4 {
     
     .menu #logo {
         margin: auto;
-        margin-bottom: 1.5px;
+        margin-bottom: 1px;
     }
     
   .menu ul li a {

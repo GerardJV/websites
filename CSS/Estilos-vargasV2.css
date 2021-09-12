@@ -140,33 +140,131 @@ footer h4 {
 @media screen and (min-width:600px) and (max-width: 990px) {
 
     .menu {
+        
         flex-direction: column;
-        margin-bottom: -20px;
+        font-size: 18px;
+        padding: 0;
+        
+    }
+        
+    .menu-items {
+        
+        display: flex;
+        justify-content: space-around;
+        margin-left: 1px;
+        margin-right: 1px;
+        
         
     }
     
     .menu #logo {
         margin: auto;
+        margin-bottom: 1.5px;
+    }
+    
+  .menu ul li a {
+    
+    padding: 8px 10px;
+    
+}
+    
+    
+  .banner h1 {
+        display: flex;
+        justify-content: center;
+        height: 600px;
+        width: 100%;
+        padding-top: 20%;
+        background-position: 75%;
+    }
+    
+    
+    
+    section, .contenedor1 {
+        
+        flex-direction: column;
+        margin:auto;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        width: auto;
+
+    }
+
+    
+    .contenedor1 img {
+       width: auto;
+        
         
     }
     
-     .menu-items {
+    .Galería1 , .Galería2 {
+        
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: -30px;
+    
+    }
+
+    .Galería1 img {
+    width: 100%;
+}
+    
+    .Galería2 img {
+    width: 100%
+}
+    
+    .contenedor2 {
+        width: auto;
+        margin-top: -5px;
+    }
+
+    .Galería1 {
+        margin-bottom: -30px;
+    }
+
+}
+
+@media screen and (max-width: 559px) {
+
+    .menu {
+        
+        flex-direction: column;
+        font-size: 10px;
+        padding: 0;
+        
+    }
+        
+    .menu-items {
         
         display: flex;
         justify-content: space-around;
-         
+        margin-left: 1px;
+        margin-right: 1px;
+        
+        
     }
     
-    .banner h1 { 
-        transform: translatey(-15%);
-        margin-left: 175px;
-        font-size: 50px;
+    .menu #logo {
+        margin: auto;
+        margin-bottom: 1.5px;
     }
+    
+  .menu ul li a {
+    
+    padding: 8px 10px;
+    
+}
+    
+    
 
-    .banner {
-        margin-top: 25px;
-        width: 100%;
-    }
+.banner h1 {
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width: 100%;
+    padding-top: 30%;
+    background-position: 75%;
+}
     
     
     

@@ -211,11 +211,12 @@ footer h4 {
   .banner {
         display: flex;
         justify-content: center;
+        flex-direction: column;
         height: 300px;
         width: 100%;
         padding-top: 18%;
         background-position: 90%;
-        transform: translateY(-10%);
+        
     }
     
     

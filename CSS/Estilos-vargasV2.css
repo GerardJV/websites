@@ -208,13 +208,13 @@ footer h4 {
 }
     
     
-  .banner h1 {
+  .banner {
         display: flex;
         justify-content: center;
         height: 600px;
         width: 100%;
         padding-top: 20%;
-        background-position: 75%;
+        background-position: 80%;
     }
     
     

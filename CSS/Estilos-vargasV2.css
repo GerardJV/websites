@@ -215,6 +215,7 @@ footer h4 {
         width: 100%;
         padding-top: 18%;
         background-position: 90%;
+        transform: translateY(-10%);
     }
     
     

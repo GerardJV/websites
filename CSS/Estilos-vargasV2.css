@@ -211,7 +211,7 @@ footer h4 {
   .banner {
         display: flex;
         justify-content: center;
-        height: 350px;
+        height: 300px;
         width: 100%;
         padding-top: 20%;
         background-position: 90%;
@@ -303,7 +303,7 @@ footer h4 {
     height: 350px;
     width: 100%;
     padding-top: 15%;
-    background-position: 90%;
+    background-position: 85%;
     font-size: 15px;
   
 }

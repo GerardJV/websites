@@ -297,15 +297,20 @@ footer h4 {
     
     
 
-.banner h1 {
+.banner {
     display: flex;
     justify-content: center;
     height: 600px;
     width: 100%;
     padding-top: 30%;
-    background-position: 75%;
+    background-position: 90%;
+    font-size: 15px;
+  
 }
 
+.banner p {
+    font-size: 25px;
+    }
 
 section, .contenedor1 {
         

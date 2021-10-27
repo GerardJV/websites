@@ -5,15 +5,22 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #B4846C ;
+    
 }
 
 header {
     background-color: #7D5A50;
     padding-top: 5px;
     padding-bottom: 5px;
-    
+    position: sticky;
+    top: 0;
+    width: 100%;
 }
 
 
@@ -26,7 +33,7 @@ header {
     margin: 4px  6px ;
     display: flex;
     justify-content: space-between;
-    padding: 5px 50px 5px 50px;
+    padding: 5px 10px 5px 10px;
     
 }
 
@@ -35,7 +42,7 @@ header {
 .menu ul li a {
     text-decoration: none;
     color: white;
-    padding: 15px 12px;
+    padding: 10px 12px;
     border-radius: 3px;
     
     
@@ -44,7 +51,7 @@ header {
 .menu-items {
     display: flex;
     list-style: none;
-    margin: 50px 0;
+    margin: 30px 0;
     
 }
 
@@ -76,6 +83,7 @@ ul li a:hover {
     flex-direction: column;
     text-align: center;
     letter-spacing: 3px;
+    
 }
 
 .banner p {
@@ -96,7 +104,8 @@ section {
     padding: 15px 20px 35px 20px;
     font-family: 'Saira Condensed', sans-serif;
     font-size: 25px;
-    border-radius: 8px;
+    border-radius: 8px; 
+    
 }
 
 
@@ -105,6 +114,8 @@ section {
     margin-top: 75px;
     display: flex;
     justify-content: space-around;
+    
+    
     
 }
 
@@ -127,6 +138,7 @@ section {
     font-family: 'Saira Condensed', sans-serif;
     font-size: 25px;
     border-radius: 8px;
+    
 }
 
 h3 {
@@ -208,15 +220,13 @@ footer h4 {
 }
     
     
-  .banner {
+  .banner h1 {
         display: flex;
         justify-content: center;
-        flex-direction: column;
-        height: 450px;
+        height: 600px;
         width: 100%;
-        padding-top: 18%;
-        background-position: 90%;
-        
+        padding-top: 20%;
+        background-position: 75%;
     }
     
     
@@ -299,20 +309,15 @@ footer h4 {
     
     
 
-.banner {
+.banner h1 {
     display: flex;
     justify-content: center;
-    height: 350px;
+    height: 600px;
     width: 100%;
-    padding-top: 15%;
-    background-position: 85%;
-    font-size: 15px;
-  
+    padding-top: 30%;
+    background-position: 75%;
 }
 
-.banner p {
-    font-size: 25px;
-    }
 
 section, .contenedor1 {
         

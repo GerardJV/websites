@@ -316,8 +316,12 @@ footer h4 {
     width: 100%;
     padding-top: 30%;
     background-position: 75%;
+    font-size: 45px;
 }
 
+.banner p {
+    margin-top: -350px;
+}
 
 section, .contenedor1 {
         

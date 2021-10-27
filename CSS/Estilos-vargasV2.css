@@ -307,20 +307,21 @@ footer h4 {
     
 }
     
-    
+.banner {
+    background-position-x: 65%;
+}
 
 .banner h1 {
     display: flex;
     justify-content: center;
     height: 600px;
     width: 100%;
-    padding-top: 30%;
-    background-position: 75%;
+    padding-top: 5%;
     font-size: 45px;
 }
 
 .banner p {
-    margin-top: -350px;
+    margin-top: -425px;
 }
 
 section, .contenedor1 {
